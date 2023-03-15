@@ -3,7 +3,7 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Editor } from 'slate-react';
+import { Editor } from '@slate-legacy/slate-react';
 
 import PluginEditList from '../lib/';
 

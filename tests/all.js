@@ -1,7 +1,7 @@
 import expect from 'expect';
 import fs from 'fs';
 import path from 'path';
-import Slate from 'slate';
+import Slate from '@slate-legacy/slate';
 import readMetadata from 'read-metadata';
 
 import EditList from '../lib';
